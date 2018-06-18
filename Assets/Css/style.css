@@ -14,4 +14,10 @@ h1{
     
 }
 
+p{
+    font-weight: bold;
+    text-transform: capitalize;
+    color: black;
+}
+
 

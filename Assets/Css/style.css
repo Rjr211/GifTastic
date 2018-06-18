@@ -1,0 +1,17 @@
+body{
+    background-color: #d97d7a;
+background-image: url(http://www.transparenttextures.com/patterns/3px-tile.png);
+}
+
+.jumbotron{
+    background-color: black;
+    border: 5px solid bisque;
+    
+}
+
+h1{
+    font-size: 100px;
+    
+}
+
+
